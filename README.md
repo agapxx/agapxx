@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @agapxx
+- 👋 Hi, I’m Agape
 - 👀 I’m a software engineer
 - 🌱 I’m currently learning engineering devops
 - 📫 How to reach me okontaagape@gmail.com
