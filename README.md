@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Agape
 - 👀 I’m a software engineer
-- 🌱 I’m currently learning UI/UX engineering 
+- 🌱 I’m currently learning ethical hacking 
 - 📫 How to reach me okontaagape@gmail.com
 
 <!---
