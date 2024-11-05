@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Agape
 - 👀 I’m a software engineer
-- 🌱 I’m currently learning DevSecOps
+- 🌱 I’m currently learning Data Engineering
 - 📫 How to reach me okontaagape@gmail.com
 
 <!---
