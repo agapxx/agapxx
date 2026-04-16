@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Agape
 - 👀 I’m a software engineer
-- 🌱 I’m currently learning Data Engineering
+- 🌱 I’m currently learning Msc IT for Energy Industry
 - 📫 How to reach me okontaagape@gmail.com
 
 <!---
